@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nerov Ahmead</h1>
 <h3 align="center">I'm Profasonal Python Coder</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKEIFgYM-7zHymWHTg7xeTqnx5zm8lir8XWg&usqp=CAU">
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nerov103&label=Profile%20views&color=0e75b6&style=flat" alt="nerov103" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
