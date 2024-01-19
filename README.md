@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nerov103&show_icons=true&locale=en" alt="nerov103" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nerov103&" alt="nerov103" /></p>
+
 
 
 
