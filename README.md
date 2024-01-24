@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nerov103&label=Profile%20views&color=0e75b6&style=flat" alt="nerov103" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 𝙄’𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙬𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣 **𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 𝙞𝙣 𝘿𝙟𝙖𝙣𝙜𝙤**
-
 - 💬 𝔸𝕤𝕜 𝕞𝕖 𝕒𝕓𝕠𝕦𝕥 **💬 ℙ𝕪𝕥𝕙𝕠𝕟, 𝔻𝕛𝕒𝕟𝕘𝕠, 𝕄𝕪𝕤𝕢𝕝**
 
 - ⚡ 𝗙𝘂𝗻 𝗳𝗮𝗰𝘁 **𝗜𝗺 𝗮 𝗙𝘂𝗻𝗻𝘆 𝗠𝗮𝗻**
