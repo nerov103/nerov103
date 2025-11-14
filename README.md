@@ -4,7 +4,7 @@
 <h3 align="center">𝙄'𝙢 𝙗𝙤𝙧𝙞𝙣𝙜 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙚𝙧 🐍📝</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nerov103&label=Profile%20views&color=0e75b6&style=flat" alt="nerov103" /> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 💬 𝔸𝕤𝕜 𝕞𝕖 𝕒𝕓𝕠𝕦𝕥 **💬 ℙ𝕪𝕥𝕙𝕠𝕟, 𝔻𝕛𝕒𝕟𝕘𝕠, 𝕄𝕪𝕤𝕢𝕝**
 
